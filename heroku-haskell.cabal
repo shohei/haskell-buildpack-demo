@@ -19,3 +19,4 @@ executable heroku-haskell
                      , wai ==1.3.*
                      , warp ==1.3.*
                      , http-types ==0.7.*
+                     , scotty ==0.4.*
